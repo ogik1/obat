@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS_180030040_1</string>
+    <string name="idObat">ID Obat</string>
+    <string name="namaObat">Nama Obat</string>
+    <string name="tgl">Tanggal terbit</string>
+    <string name="gambar">Gambar Obat</string>
+    <string name="deskripsi">Deskripsi Obat</string>
+    <string name="indikasi">Indikasi Obat</string>
+    <string name="pabrik">Pabrik</string>
+    <string name="kemasan">Kemasan</string>
+    <string name="link">Link</string>
+    <string name="tambah">Tambah Obat</string>
+    <string name="edit">Edit Obat</string>
+    <string name="hapus">Hapus Obat</string>
+    <string name="bagikan">Bagikan Obat</string>
+    <string name="titikdua">:</string>
+    <string name="simpan">Simpan Berita</string>
+    <string name="data_obat">Data Obat</string>
+</resources>
